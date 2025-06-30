@@ -1,5 +1,5 @@
 # Proyecto-Tue-Tue-ELECTRONICA
-Titulo: "Tue Tue en la oscuridad"
+Titulo: "Tue Tue en la oscuridad".
 Documentación de proyecto final/examen de Tecnología Aplicada I: Electrónica.
 
 Premisa del proyecto: "Exploración de la leyenda Chilena del Tue Tue desde el misterio".
@@ -13,9 +13,9 @@ El Arduino UNO iría adherido con pegamento a la superficie (posiblemente al dat
 
 ![ilustarción circuito(./circuito tinkercard.png)]
 
-Codigo DEFINITIVO:
+~~~Codigo DEFINITIVO:
 
-~~~#include <Servo.h>
+#include <Servo.h>
 
 // Crea dos objetos Servo
 Servo servo1;
