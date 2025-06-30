@@ -10,7 +10,7 @@ Tenía la idea de hacer mi trabajo sobre un ser mitológico y/o monstruoso, ya q
 En este aspecto, elegí dos actuadores servomotor para hacer funcionar el movimiento de las alas, y para el sensor que activaría el funcionamiento de las alas escogi un sensor ultrasónico (aspecto descartado).
 El Arduino UNO iría adherido con pegamento a la superficie (posiblemente data) donde coloque ambas alas de la criatura. Detras de este circuito irian uno o  más focos para lograr la proyección de la sombra de estas mismas alas. La sala estaria oscura y con las luces del techo apagadas.
 
-![circuito tinkercard](./circuito tinkercard.png)
+![circuito tinkercard](./circuito tinkercard.png)!
 
 Codigo DEFINITIVO:
 ~~~#include <Servo.h>
