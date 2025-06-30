@@ -12,9 +12,9 @@ En este aspecto, elegí dos actuadores servomotor para hacer funcionar el movimi
 
 El Arduino UNO iría adherido con pegamento a la superficie (posiblemente al data) donde colocaré ambas alas de la criatura. Detrás de este circuito irían 1 o 2 focos para lograr la proyección de la sombra de las mismas alas. La sala estaría oscura y con las luces del techo apagadas.
 
-![ilustarción circuito(./circuito tinkercard.png)]
+![ilustración circuito(./circuito tinkercard.png)]
 
-~~~Codigo DEFINITIVO:
+~~~Código DEFINITIVO:
 
 #include <Servo.h>
 
