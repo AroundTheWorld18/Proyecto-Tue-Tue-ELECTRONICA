@@ -1,4 +1,4 @@
-# Proyecto-Tue-Tue-ELECTRONICA
+# Proyecto-Tue-Tue-ELECTRÓNICA
 Titulo: "Tue Tue en la oscuridad".
 Documentación de proyecto final/examen de Tecnología Aplicada I: Electrónica.
 
